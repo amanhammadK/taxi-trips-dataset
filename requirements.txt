@@ -1,0 +1,2 @@
+# Dataset generation has no external dependencies.
+# The query engine is Node/TypeScript; this script only (re)generates sample data.

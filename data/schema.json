@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Taxi Trips Dataset",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "trip_id": {
+        "type": "string"
+      },
+      "pickup_time": {
+        "type": "string"
+      },
+      "dropoff_time": {
+        "type": "string"
+      },
+      "distance_miles": {
+        "type": "number"
+      },
+      "fare_usd": {
+        "type": "number"
+      },
+      "passengers": {
+        "type": "integer"
+      }
+    }
+  }
+}
