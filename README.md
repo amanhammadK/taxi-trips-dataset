@@ -4,7 +4,7 @@ A ready-to-query dataset server for **Individual taxi trip records**. Records ar
 
 ## Why this exists
 
-Datasets are only useful when something can query them. This repo bundles a small but real sample dataset with a typed query engine so an MCP client can filter, fetch, and summarize records without standing up a database.
+Datasets are only useful when something can query them. This repo bundles a small but synthetic sample dataset with a typed query engine so an MCP client can filter, fetch, and summarize records without standing up a database.
 
 ## Data shape
 
